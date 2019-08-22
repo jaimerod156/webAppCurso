@@ -1,0 +1,22 @@
+main {
+	width: 500px;
+	margin: auto;
+	background: gray;
+	overflow: auto;
+}
+nav {
+	/*border: 3px solid black;*/
+	width: 100px;
+	float: right
+}
+/*nav p{
+	 margin: 0;
+	 padding: 0;
+}*/
+
+p {
+	margin: 0; /* remove the default margin on p*/
+	padding: 10px;
+	float: left;
+	width: 380px;/* 400 - 2*10 = 380 */
+}
